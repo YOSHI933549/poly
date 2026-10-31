@@ -1,8 +1,78 @@
 {
-  "updatedAt": "2026-10-31T20:10:00+09:00",
-  "updatedLabel": "10/31 20:10",
+  "updatedAt": "2026-11-01T07:10:00+09:00",
+  "updatedLabel": "11/1 7:10",
   "source": "polymarketjapan",
   "items": [
+    {
+      "tag": "P",
+      "title": "海外居住者の国内不動産賃貸に個人事業税、総務省が検討",
+      "url": "https://x.com/polymarketjapan/status/2116651430660714668"
+    },
+    {
+      "tag": "P",
+      "title": "バフェット氏「48年間、水を飲んでいない」と発言",
+      "url": "https://x.com/polymarketjapan/status/2116643876652134852"
+    },
+    {
+      "tag": "P",
+      "title": "コンゴ民主共和国、エボラ出血熱の死者が5000人超",
+      "url": "https://x.com/polymarketjapan/status/2116636333980430511"
+    },
+    {
+      "tag": "P",
+      "title": "ヨハネスブルクで深刻な水不足、数週間の断水も",
+      "url": "https://x.com/polymarketjapan/status/2116621230526865904"
+    },
+    {
+      "tag": "P",
+      "title": "ドイツ家族相、AIが生む付加価値への課税を主張",
+      "url": "https://x.com/polymarketjapan/status/2116606130810237043"
+    },
+    {
+      "tag": "P",
+      "title": "小学生の絵に「AIくさい」と中傷、作品のネット公開中止",
+      "url": "https://x.com/polymarketjapan/status/2116591035866296654"
+    },
+    {
+      "tag": "P",
+      "title": "日米防衛相、サイバー攻撃への連携強化で一致",
+      "url": "https://x.com/polymarketjapan/status/2116560839197261958"
+    },
+    {
+      "tag": "P",
+      "title": "クラブツーリズム、会員情報約432万件が流出した恐れ",
+      "url": "https://x.com/polymarketjapan/status/2116555252216528900"
+    },
+    {
+      "tag": "P",
+      "title": "防災庁、11月2日に発足へ、災害対策の司令塔に",
+      "url": "https://x.com/polymarketjapan/status/2116545739602227382"
+    },
+    {
+      "tag": "P",
+      "title": "日米豪印、AI開発・活用の支援に134億円超を拠出へ",
+      "url": "https://x.com/polymarketjapan/status/2116540003505643608"
+    },
+    {
+      "tag": "P",
+      "title": "米民主党議員、トランプ氏とGrokの会話記録の保存を要求",
+      "url": "https://x.com/polymarketjapan/status/2116530632549707862"
+    },
+    {
+      "tag": "P",
+      "title": "GMO、不正アクセスの脆弱性を2年前に子会社が指摘",
+      "url": "https://x.com/polymarketjapan/status/2116516548072652838"
+    },
+    {
+      "tag": "P",
+      "title": "都内最古の「天下一品 池尻店」、11月3日に閉店へ",
+      "url": "https://x.com/polymarketjapan/status/2116515534187667706"
+    },
+    {
+      "tag": "P",
+      "title": "ブラジルのルラ大統領、トランプ氏を就任式に招待検討",
+      "url": "https://x.com/polymarketjapan/status/2116500431602123043"
+    },
     {
       "tag": "P",
       "title": "車のブレーキやハンドルにも乗っ取りリスク、既知の脆弱性413件を分析",
@@ -12,76 +82,6 @@
       "tag": "P",
       "title": "トランプ氏の資産、1年で約5割増の少なくとも3900億円に",
       "url": "https://x.com/polymarketjapan/status/2116470242461593945"
-    },
-    {
-      "tag": "P",
-      "title": "スタバCEO、他ブランドへの事業拡大の可能性に言及",
-      "url": "https://x.com/polymarketjapan/status/2116455153091916148"
-    },
-    {
-      "tag": "P",
-      "title": "政府、防衛産業支援へ新法人構想",
-      "url": "https://x.com/polymarketjapan/status/2116440037403299902"
-    },
-    {
-      "tag": "P",
-      "title": "仏下院、データ送信1GBあたり0.055ユーロの課税案を可決",
-      "url": "https://x.com/polymarketjapan/status/2116424934964494395"
-    },
-    {
-      "tag": "P",
-      "title": "警察庁の偽サイトを新たに確認、ニセ警察詐欺に注意",
-      "url": "https://x.com/polymarketjapan/status/2116409837273972784"
-    },
-    {
-      "tag": "P",
-      "title": "S&P、Metaの格付け見通しを「ネガティブ」に引き下げ",
-      "url": "https://x.com/polymarketjapan/status/2116394736798056669"
-    },
-    {
-      "tag": "P",
-      "title": "Google、人工衛星上のAIで「宇宙の詩」を生成",
-      "url": "https://x.com/polymarketjapan/status/2116379638306046415"
-    },
-    {
-      "tag": "P",
-      "title": "こども園に人形の頭部を投げ込んだ疑い、42歳の女を逮捕",
-      "url": "https://x.com/polymarketjapan/status/2116375492018524562"
-    },
-    {
-      "tag": "P",
-      "title": "Apple、時価総額で世界首位に、NVIDIAを逆転",
-      "url": "https://x.com/polymarketjapan/status/2116372088793817341"
-    },
-    {
-      "tag": "P",
-      "title": "トランプ氏「民主党は中間選挙で壊滅する」と発言",
-      "url": "https://x.com/polymarketjapan/status/2116368428407923076"
-    },
-    {
-      "tag": "P",
-      "title": "ゆうちょ貯金の上限撤廃要望に銀行業界が反発",
-      "url": "https://x.com/polymarketjapan/status/2116364547556839742"
-    },
-    {
-      "tag": "P",
-      "title": "OpenAI、資金調達目標を100億ドル引き下げ",
-      "url": "https://x.com/polymarketjapan/status/2116355376375603542"
-    },
-    {
-      "tag": "P",
-      "title": "Reddit株が約29%急落、GoogleのAI検索で流入減",
-      "url": "https://x.com/polymarketjapan/status/2116349440227463579"
-    },
-    {
-      "tag": "P",
-      "title": "Binanceの約1兆円流出、北朝鮮系ハッカー関与か",
-      "url": "https://x.com/polymarketjapan/status/2116341886709276750"
-    },
-    {
-      "tag": "P",
-      "title": "米Inovio株、FDAの迅速承認で時間外に一時4倍",
-      "url": "https://x.com/polymarketjapan/status/2116330985155637272"
     }
   ]
 }

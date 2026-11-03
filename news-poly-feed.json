@@ -1,23 +1,87 @@
 {
-  "updatedAt": "2026-11-03T20:10:00+09:00",
-  "updatedLabel": "11/3 20:10",
+  "updatedAt": "2026-11-04T07:10:00+09:00",
+  "updatedLabel": "11/4 7:10",
   "source": "polymarketjapan",
   "items": [
-    {"tag": "P", "title": "オルカン、1年間で4兆円超が流入し国内投信首位", "url": "https://x.com/polymarketjapan/status/2117572498997018739"},
-    {"tag": "P", "title": "ドル円、158円台に上昇", "url": "https://x.com/polymarketjapan/status/2117562629422207227"},
-    {"tag": "P", "title": "韓国大統領ら168人分の個人情報流出、警察が捜査", "url": "https://x.com/polymarketjapan/status/2117558032087597364"},
-    {"tag": "P", "title": "米大手銀、AIエージェントの口座アクセスを制限", "url": "https://x.com/polymarketjapan/status/2117557405550833837"},
-    {"tag": "P", "title": "米国株「1日23時間取引」、12月開始予定", "url": "https://x.com/polymarketjapan/status/2117542309327691952"},
-    {"tag": "P", "title": "固定電話の国際電話を「希望制」に、総務省が検討", "url": "https://x.com/polymarketjapan/status/2117527197015826911"},
-    {"tag": "P", "title": "トランプ氏「私が出馬していると思って投票を」", "url": "https://x.com/polymarketjapan/status/2117512099786314125"},
-    {"tag": "P", "title": "Anthropic、7〜9月売上高約2.7兆円で前期比47％増", "url": "https://x.com/polymarketjapan/status/2117497000291864917"},
-    {"tag": "P", "title": "純資産4000万〜5000万円世帯、平均年収639.5万円", "url": "https://x.com/polymarketjapan/status/2117481903859114042"},
-    {"tag": "P", "title": "米財務省、10〜12月の借入見通しを6180億ドルに下方修正", "url": "https://x.com/polymarketjapan/status/2117466804775723183"},
-    {"tag": "P", "title": "トランプ氏支持率32％、低水準続く", "url": "https://x.com/polymarketjapan/status/2117459252059226503"},
-    {"tag": "P", "title": "TV用端末130万台超に不正ソフト、Googleが取引停止", "url": "https://x.com/polymarketjapan/status/2117451711942210022"},
-    {"tag": "P", "title": "オラクルとGoogle、AI投資へ計約4.2兆円を調達へ", "url": "https://x.com/polymarketjapan/status/2117444150589370668"},
-    {"tag": "P", "title": "1億1500万年前の恐竜化石に「赤血球」の痕跡か", "url": "https://x.com/polymarketjapan/status/2117436606080487680"},
-    {"tag": "P", "title": "デザイナーの78.8%がAIを毎日利用、半数がキャリアに不安", "url": "https://x.com/polymarketjapan/status/2117376205032657012"},
-    {"tag": "P", "title": "日銀、物価2％定着に向けた動きが進展と評価", "url": "https://x.com/polymarketjapan/status/2117361113767538894"}
+    {
+      "tag": "P",
+      "title": "「安いもやし」限界、5年で製造業者13社が倒産・廃業",
+      "url": "https://x.com/polymarketjapan/status/2117738605686714400"
+    },
+    {
+      "tag": "P",
+      "title": "米軍、軌道上の「宇宙兵器」保有を初公表",
+      "url": "https://x.com/polymarketjapan/status/2117731044354851239"
+    },
+    {
+      "tag": "P",
+      "title": "「給食だけの登校、批判しないで」カウンセラーが訴え",
+      "url": "https://x.com/polymarketjapan/status/2117727265366905047"
+    },
+    {
+      "tag": "P",
+      "title": "親と関わりを断つ「家族じまい」、20〜30代の相談増",
+      "url": "https://x.com/polymarketjapan/status/2117723495564214416"
+    },
+    {
+      "tag": "P",
+      "title": "子どものセルフレジ操作、SNSで賛否",
+      "url": "https://x.com/polymarketjapan/status/2117693300069253462"
+    },
+    {
+      "tag": "P",
+      "title": "ブルガリア大統領選、女性が初当選",
+      "url": "https://x.com/polymarketjapan/status/2117678201631650139"
+    },
+    {
+      "tag": "P",
+      "title": "ゴールドマン、トレーダーのClaude Code利用を制限",
+      "url": "https://x.com/polymarketjapan/status/2117663101814227120"
+    },
+    {
+      "tag": "P",
+      "title": "芦屋の女性宅に男、住居侵入疑いで逮捕",
+      "url": "https://x.com/polymarketjapan/status/2117648000369492348"
+    },
+    {
+      "tag": "P",
+      "title": "米JOLTS求人件数752.3万人、予想上回る",
+      "url": "https://x.com/polymarketjapan/status/2117635419148022024"
+    },
+    {
+      "tag": "P",
+      "title": "タイ、一部輸入EVの物品税を35％に引き上げ",
+      "url": "https://x.com/polymarketjapan/status/2117632893556343259"
+    },
+    {
+      "tag": "P",
+      "title": "トランプ氏「飽きられたらイスラエルで首相に」",
+      "url": "https://x.com/polymarketjapan/status/2117631300597415995"
+    },
+    {
+      "tag": "P",
+      "title": "トランプ氏、イスラエル支援年40億ドルを年末で停止と表明",
+      "url": "https://x.com/polymarketjapan/status/2117623868710170893"
+    },
+    {
+      "tag": "P",
+      "title": "公明党、消費税減税法案に反対で調整",
+      "url": "https://x.com/polymarketjapan/status/2117617797979340844"
+    },
+    {
+      "tag": "P",
+      "title": "大阪「ナンバーワン副首都」目指す、中間報告判明",
+      "url": "https://x.com/polymarketjapan/status/2117602702490534257"
+    },
+    {
+      "tag": "P",
+      "title": "マスク氏「超知能の計算はほぼ宇宙で」と投稿",
+      "url": "https://x.com/polymarketjapan/status/2117587595119174085"
+    },
+    {
+      "tag": "P",
+      "title": "米中間選挙の投票始まる",
+      "url": "https://x.com/polymarketjapan/status/2117582775574544642"
+    }
   ]
 }
